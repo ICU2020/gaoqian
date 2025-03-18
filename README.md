@@ -7,3 +7,4 @@
 ## [独立开发者做AI室内设计应用实现10万美金ARR](https://github.com/ICU2020/gaoqian/blob/main/chuangye/PaulineClavelloux.md)
 ## [一个人搞钱攻略！无代码开发，吊打大厂产品](https://github.com/ICU2020/gaoqian/blob/main/chuangye/JeremyRedman.md)
 ## [19岁香港留学生，将临期面包变新品，年入百万](https://github.com/ICU2020/gaoqian/blob/main/chuangye/Breer.md)
+## [程序员奶爸辞职去做独立开发，1年便赚了100万美金](https://github.com/ICU2020/gaoqian/blob/main/chuangye/DamonChen.md)
